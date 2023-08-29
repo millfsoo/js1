@@ -1,0 +1,13 @@
+.hidden {
+  display: none;
+}
+
+.green {
+  background-color: rgb(75, 230, 75);
+  color: white;
+}
+
+.red {
+  background-color: rgb(176, 16, 16);
+  color: white;
+}
